@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "testeTypescript",
-    "slug": "testeTypescript",
+    "name": "listaDePresenca",
+    "slug": "listaDePresenca",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
